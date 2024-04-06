@@ -1,0 +1,481 @@
+2024-02-22 01:18:51 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:21:40 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:22:08 - Echec de la connexion, code : X001bADB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:22:12 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:22:19 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:22:50 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:23:46 - Echec de la connexion, code : X001bADB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:23:52 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:23:56 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:24:19 - Echec de la connexion, code : X001bADB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:32:25 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:32:38 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:32:47 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:32:49 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:32:49 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:32:49 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:33:17 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:33:18 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:33:19 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:34:13 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:34:23 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:35:11 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:35:14 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:35:52 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:36:25 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:37:01 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2024-02-22 01:39:10 - L'email existe déjà.
+2024-02-22 01:40:05 - L'email existe déjà.
+2024-02-22 01:40:26 - L'email existe déjà.
+2024-02-22 01:43:54 - La clé de chiffrement generée avec succès
+2024-02-22 01:43:54 - Erreur lors de la récupération de la clé publique:
+2024-02-22 01:54:48 - La clé de chiffrement generée avec succès
+2024-02-22 01:54:57 - La clé de chiffrement generée avec succès
+2024-02-22 01:54:59 - La clé de chiffrement generée avec succès
+2024-02-22 01:55:18 - La clé de chiffrement generée avec succès
+2024-02-22 01:55:18 - Javascript---Erreur lors de la récupération de la clé publique:
+2024-02-22 01:55:30 - La clé de chiffrement generée avec succès
+2024-02-22 01:55:30 - Javascript---Erreur lors de la récupération de la clé publique:
+2024-02-22 01:56:19 - La clé de chiffrement generée avec succès
+2024-02-22 01:56:19 - Javascript---Erreur lors de la récupération de la clé publique:
+2024-02-22 01:56:23 - La clé de chiffrement generée avec succès
+2024-02-22 01:56:23 - Javascript---Erreur lors de la récupération de la clé publique:
+2024-02-22 01:56:29 - La clé de chiffrement generée avec succès
+2024-02-22 01:56:29 - Javascript---Erreur lors de la récupération de la clé publique:
+Thu-02-24 01:59:25. - La clé de chiffrement generée avec succès
+Thu-02-24 01:59:25. - Javascript---Erreur lors de la récupération de la clé publique:
+Thu-02-24 01:59:48. - La clé de chiffrement generée avec succès
+Thu-02-24 01:59:48. - Javascript---Erreur lors de la récupération de la clé publique:
+2024-02-22 02:03:57 - La clé de chiffrement generée avec succès
+2024-02-22 02:03:57 - Javascript---Erreur lors de la récupération de la clé publique:
+2024-02-22 02:05:09La clé de chiffrement generée avec succès
+2024-02-22 02:05:09Javascript---Erreur lors de la récupération de la clé publique:
+Thu-02-24 02:05:46 - La clé de chiffrement generée avec succès
+Thu-02-24 02:05:46 - Javascript---Erreur lors de la récupération de la clé publique:
+Thu-02-24 02:05:51 - La clé de chiffrement generée avec succès
+Thu-02-24 02:05:51 - Javascript---Erreur lors de la récupération de la clé publique:
+Thu-02-24 02:06:19 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:06:31 - L'email existe déjà.
+Thu-02-24 02:06:37 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:06:54 - L'email existe déjà.
+Thu-02-24 02:07:19 - 
+Thu-02-24 02:07:20 - Javascript---Erreur lors de la récupération de la clé publique:
+Thu-02-24 02:07:32 - 
+Thu-02-24 02:07:32 - Javascript---Erreur lors de la récupération de la clé publique:
+Thu-02-24 02:08:02 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:08:07 - L'email existe déjà.
+Thu-02-24 02:08:30 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:08:39 - L'email existe déjà.
+Thu-02-24 02:09:38 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:09:38 - La clé de chiffrement generée avec succès
+Thu-02-24 02:11:23 - L'email existe déjà.
+Thu-02-24 02:11:23 - 
+Thu-02-24 02:11:31 - La clé de chiffrement generée avec succès
+Thu-02-24 02:11:31 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:11:40 - L'email existe déjà.
+Thu-02-24 02:11:40 - 
+Thu-02-24 02:12:19 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:12:19 - La clé de chiffrement generée avec succès
+Thu-02-24 02:12:29 - L'email existe déjà.
+Thu-02-24 02:12:29 - 
+Thu-02-24 02:13:14 - 
+Thu-02-24 02:13:14 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:13:18 - L'email existe déjà.
+Thu-02-24 02:13:18 - 
+Thu-02-24 02:13:43 - La clé de chiffrement generée avec succès
+Thu-02-24 02:13:43 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:13:58 - L'email existe déjà.
+Thu-02-24 02:13:58 - 
+Thu-02-24 02:14:56 - La clé de chiffrement generée avec succès
+Thu-02-24 02:14:56 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:15:09 - La clé de chiffrement generée avec succès
+Thu-02-24 02:15:09 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:15:10 - L'email existe déjà.
+Thu-02-24 02:15:10 - 
+Thu-02-24 02:17:25 - La clé de chiffrement generée avec succès
+Thu-02-24 02:17:25 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:17:30 - L'email existe déjà.
+Thu-02-24 02:17:30 - 
+Thu-02-24 02:18:20 - 
+Thu-02-24 02:18:20 - 
+Thu-02-24 02:18:22 - 
+Thu-02-24 02:18:22 - 
+Thu-02-24 02:18:36 - La clé de chiffrement generée avec succès
+Thu-02-24 02:18:36 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:18:39 - L'email existe déjà.
+Thu-02-24 02:18:39 - 
+Thu-02-24 02:18:53 - La clé de chiffrement generée avec succès
+Thu-02-24 02:18:53 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:18:54 - L'email existe déjà.
+Thu-02-24 02:18:54 - 
+Thu-02-24 02:19:05 - La clé de chiffrement generée avec succès
+Thu-02-24 02:19:05 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:19:06 - L'email existe déjà.
+Thu-02-24 02:19:06 - 
+Thu-02-24 02:19:55 - La clé de chiffrement generée avec succès
+Thu-02-24 02:19:55 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:20:04 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+Thu-02-24 02:20:04 - 
+Thu-02-24 02:20:38 - 
+Thu-02-24 02:20:38 - Echec de la connexion, code : X001bADB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+Thu-02-24 02:20:42 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+Thu-02-24 02:20:42 - 
+Thu-02-24 02:21:07 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+Thu-02-24 02:21:07 - 
+Thu-02-24 02:21:17 - La clé de chiffrement generée avec succès
+Thu-02-24 02:21:17 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:21:24 - Echec de la connexion, code : X001CDB contacter le service technique---SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+Thu-02-24 02:21:24 - 
+Thu-02-24 02:22:45 - La clé de chiffrement generée avec succès
+Thu-02-24 02:22:45 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:22:48 - Le numéro de téléphone existe déjà.
+Thu-02-24 02:22:48 - 
+Thu-02-24 02:23:23 - La clé de chiffrement generée avec succès
+Thu-02-24 02:23:23 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:23:27 - Erreur, code : 0X008PD---SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2147483647' for key 'telephone'
+Thu-02-24 02:23:27 - 
+Thu-02-24 02:26:04 - Javascript---renvoie une erreur : ---Unexpected token '<', "<br />
+<b>"... is not valid JSON
+Thu-02-24 02:31:54 - La clé de chiffrement generée avec succès
+Thu-02-24 02:31:54 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:31:58 - L'email existe déjà.
+Thu-02-24 02:31:58 - 
+Thu-02-24 02:32:26 - La clé de chiffrement generée avec succès
+Thu-02-24 02:32:26 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+Thu-02-24 02:32:35 - Erreur, code : 0X008PD---SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2147483647' for key 'telephone'
+Thu-02-24 02:32:35 - 
+2024-02-22 02:33:41 - La clé de chiffrement generée avec succès
+2024-02-22 02:33:41 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 02:33:45 - Enregistrement des données personnelles effectué
+2024-02-22 02:33:45 - 
+2024-02-22 11:52:49 - 
+2024-02-22 12:03:49 - Net activity.
+2024-02-22 12:06:23 - Net activity.
+2024-02-22 12:06:24 - Net activity.
+2024-02-22 12:06:31 - Net activity.
+2024-02-22 12:06:34 - Net activity.
+2024-02-22 12:06:48 - Net activity.
+2024-02-22 12:06:49 - Net activity.
+2024-02-22 12:07:00 - Net activity.
+2024-02-22 12:07:02 - Net activity.
+2024-02-22 12:07:03 - Net activity.
+2024-02-22 12:07:03 - Net activity.
+2024-02-22 12:07:04 - Net activity.
+2024-02-22 12:07:05 - Net activity.
+2024-02-22 14:50:33 - Net activity.
+2024-02-22 14:50:35 - Net activity.
+2024-02-22 14:50:36 - Net activity.
+2024-02-22 14:50:38 - Net activity.
+2024-02-22 22:43:44 - La clé de chiffrement generée avec succès
+2024-02-22 22:43:44 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 22:43:46 - L'email existe déjà.
+2024-02-22 22:43:46 - 
+2024-02-22 22:44:33 - La clé de chiffrement generée avec succès
+2024-02-22 22:44:33 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 22:44:51 - L'email existe déjà.
+2024-02-22 22:44:51 - 
+2024-02-22 23:15:04 - La clé de chiffrement generée avec succès
+2024-02-22 23:15:04 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 23:15:07 - Erreur, code : 0X008PD---SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nom' cannot be null
+2024-02-22 23:15:07 - 
+2024-02-22 23:28:32 - La clé de chiffrement generée avec succès
+2024-02-22 23:28:32 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 23:28:34 - Enregistrement des données personnelles effectué
+2024-02-22 23:28:34 - 
+2024-02-22 23:34:40 - La clé de chiffrement generée avec succès
+2024-02-22 23:34:40 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 23:34:41 - Enregistrement des données personnelles effectué
+2024-02-22 23:34:41 - 
+2024-02-22 23:36:15 - La clé de chiffrement generée avec succès
+2024-02-22 23:36:15 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 23:36:16 - Le numéro de téléphone existe déjà.
+2024-02-22 23:36:16 - 
+2024-02-22 23:37:10 - La clé de chiffrement generée avec succès
+2024-02-22 23:37:10 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 23:37:11 - Le numéro de téléphone existe déjà.
+2024-02-22 23:37:11 - 
+2024-02-22 23:39:49 - La clé de chiffrement generée avec succès
+2024-02-22 23:39:49 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 23:39:51 - Enregistrement des données personnelles effectué
+2024-02-22 23:39:51 - 
+2024-02-22 23:48:15 - La clé de chiffrement generée avec succès
+2024-02-22 23:48:15 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-22 23:48:16 - Enregistrement des données personnelles effectué
+2024-02-22 23:48:16 - 
+2024-02-23 00:16:36 - La clé de chiffrement generée avec succès
+2024-02-23 00:16:36 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-23 00:17:37 - La clé de chiffrement generée avec succès
+2024-02-23 00:17:37 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-23 00:17:39 - Enregistrement des données personnelles effectué
+2024-02-23 00:17:39 - 
+2024-02-23 00:21:43 - La clé de chiffrement generée avec succès
+2024-02-23 00:21:43 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-23 00:21:44 - Enregistrement des données personnelles effectué
+2024-02-23 00:21:44 - 
+2024-02-23 00:23:15 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-23 00:23:43 - La clé de chiffrement generée avec succès
+2024-02-23 00:23:43 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-23 00:23:44 - Enregistrement des données personnelles effectué
+2024-02-23 00:23:44 - 
+2024-02-23 00:45:38 - La clé de chiffrement generée avec succès
+2024-02-23 00:45:38 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-23 00:45:39 - Enregistrement des données personnelles effectué
+2024-02-23 00:45:39 - 
+2024-02-23 01:19:54 - La clé de chiffrement generée avec succès
+2024-02-23 01:19:54 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-23 01:19:59 - Enregistrement des données personnelles effectué
+2024-02-23 01:19:59 - 
+2024-02-28 23:59:46 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-28 23:59:49 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-28 23:59:53 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-29 00:26:49 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-29 00:26:53 - Javascript---renvoie une erreur : ---Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-29 00:26:58 - Clés privée et/ou publique manquante(s) dans la session, code : 0X008KF.
+2024-02-29 00:26:58 - 
+2024-02-29 21:41:05 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-29 22:26:44 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-29 22:26:47 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-29 22:26:52 - Javascript---renvoie une erreur : ---Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-29 22:26:58 - Erreur, code : 0X008PD---SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'telephone'
+2024-02-29 22:26:58 - 
+2024-02-29 22:26:58 - 
+2024-02-29 22:26:58 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-29 22:27:01 - Erreur, code : 0X008PD---SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'telephone'
+2024-02-29 22:27:01 - 
+2024-02-29 22:38:37 - Clés privée et/ou publique manquante(s) dans la session, code : 0X008KF.
+2024-02-29 22:39:04 - Clés privée et/ou publique manquante(s) dans la session, code : 0X008KF.
+2024-02-29 22:40:01 - Clés privée et/ou publique manquante(s) dans la session, code : 0X008KF.
+2024-02-29 22:40:39 - Clés privée et/ou publique manquante(s) dans la session, code : 0X008KF.
+2024-02-29 22:43:50 - Clés privée et/ou publique manquante(s) dans la session, code : 0X008KF.
+2024-02-29 22:43:50 - 
+2024-02-29 22:43:50 - Javascript---Erreur  produite lors de la requête AJAX: Not Found
+2024-02-29 22:46:16 - Clés privée et/ou publique manquante(s) dans la session, code : 0X008KF.
+2024-02-29 22:47:15 - Clés privée et/ou publique manquante(s) dans la session, code : 0X008KF.
+2024-02-29 22:48:59 - 
+2024-02-29 22:48:59 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-02-29 22:49:18 - 
+2024-02-29 22:49:18 - Erreur de réseau
+2024-02-29 22:49:18 - 
+2024-02-29 22:49:18 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-02-29 22:49:30 - 
+2024-02-29 22:49:30 - Erreur de réseau
+2024-02-29 22:49:30 - 
+2024-02-29 22:49:30 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-02-29 22:51:18 - 
+2024-02-29 22:51:18 - Erreur de réseau
+2024-02-29 22:51:18 - 
+2024-02-29 22:51:18 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-02-29 22:51:31 - La clé de chiffrement generée avec succès
+2024-02-29 22:51:31 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-02-29 22:51:33 - Enregistrement des données personnelles effectué
+2024-02-29 22:51:33 - 
+2024-02-29 23:00:38 - Echec de la connexion, code : X004KGH contacter le service technique---SQLSTATE[HY000] [1049] Unknown database 'kaysoft_utilisateur_db'
+2024-02-29 23:00:38 - 
+2024-02-29 23:01:01 - Echec de la connexion, code : X004KGH contacter le service technique---SQLSTATE[HY000] [1049] Unknown database 'kaysoft_utilisateur_db'
+2024-02-29 23:01:01 - 
+2024-02-29 23:02:17 - Erreur, code : 0X008V5---SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'privilege_utilisateur' cannot be null
+2024-02-29 23:02:17 - 
+2024-02-29 23:05:31 - Erreur, code : 0X008V5---SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nom_utilisateur' cannot be null
+2024-02-29 23:05:31 - 
+2024-02-29 23:07:09 - Erreur, code : 0X008V5---SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nom_utilisateur' cannot be null
+2024-02-29 23:07:09 - 
+2024-02-29 23:12:27 - 
+2024-02-29 23:12:27 - Javascript---Erreur  produite lors de la requête AJAX: Not Found
+2024-02-29 23:12:37 - 
+2024-02-29 23:12:37 - Javascript---Erreur  produite lors de la requête AJAX: Not Found
+2024-02-29 23:12:39 - 
+2024-02-29 23:12:39 - Javascript---Erreur  produite lors de la requête AJAX: Not Found
+2024-02-29 23:13:04 - Enregistrement des données d'utilisateur effectué
+2024-02-29 23:13:04 - 
+2024-02-29 23:14:38 - Enregistrement des données d'utilisateur effectué
+2024-02-29 23:14:38 - 
+2024-02-29 23:15:01 - Enregistrement des données d'utilisateur effectué
+2024-02-29 23:15:01 - 
+2024-02-29 23:19:14 - Enregistrement des données d'utilisateur effectué
+2024-02-29 23:22:50 - Enregistrement des données d'utilisateur effectué
+2024-02-29 23:25:33 - Enregistrement des données d'utilisateur effectué
+2024-03-01 19:52:45 - Enregistrement des données d'utilisateur effectué
+2024-03-01 20:29:14 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-03-01 20:51:22 - Enregistrement des données d'utilisateur effectué
+2024-03-01 20:51:22 - 
+2024-03-01 20:57:10 - Enregistrement des données d'utilisateur effectué
+2024-03-01 20:57:10 - 
+2024-03-01 21:08:41 - Javascript---renvoie une erreur : ---Erreur de réseau
+2024-03-01 21:09:30 - Le numéro de téléphone existe déjà.
+2024-03-01 21:09:30 - 
+2024-03-01 21:10:09 - Enregistrement des données d'utilisateur effectué
+2024-03-01 21:10:09 - 
+2024-03-01 22:21:50 - La clé de chiffrement generée avec succès
+2024-03-01 22:21:50 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-03-01 22:22:10 - 
+2024-03-01 22:22:10 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-03-01 22:22:10 - 
+2024-03-01 22:22:10 - Erreur de réseau
+2024-03-01 22:22:18 - La clé de chiffrement generée avec succès
+2024-03-01 22:22:18 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-03-01 22:22:57 - Enregistrement des données personnelles effectué
+2024-03-01 22:22:57 - 
+2024-03-01 22:37:52 - La clé de chiffrement generée avec succès
+2024-03-01 22:37:52 - Erreur de réseau
+2024-03-01 22:37:52 - 
+2024-03-01 22:37:52 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-03-01 22:39:07 - 
+2024-03-01 22:39:07 - Erreur de réseau
+2024-03-01 22:39:07 - 
+2024-03-01 22:39:07 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-03-02 00:05:40 - La clé de chiffrement generée avec succès
+2024-03-02 00:05:40 - Erreur de réseau
+2024-03-02 00:05:54 - 
+2024-03-02 00:05:54 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-03-02 00:06:26 - La clé de chiffrement generée avec succès
+2024-03-02 00:06:26 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-03-02 00:08:48 - Enregistrement des données personnelles effectué
+2024-03-02 00:08:48 - 
+2024-03-02 00:09:06 - La clé de chiffrement generée avec succès
+2024-03-02 00:09:06 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-03-02 00:13:33 - L'identifiant ou le mot de passe incorrect !
+2024-03-02 00:16:00 - L'identifiant ou le mot de passe incorrect !ID---admin----PWD---admin
+2024-03-02 00:42:03 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-02 00:48:40 - kimpuni-fleury---est connecté---
+2024-03-02 00:48:40 - kimpuni-fleury---est connecté---
+2024-03-02 00:48:41 - kimpuni-fleury---est connecté---
+2024-03-02 00:50:18 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 00:50:19 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 00:57:04 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 00:57:07 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 00:57:08 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 00:57:34 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:03:15 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:04:19 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:04:28 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:13:48 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:16:29 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:16:32 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:17:26 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:17:26 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:17:56 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:17:56 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:18:28 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:18:28 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:25:39 - L'identifiant ou le mot de passe incorrect !---ID---kimpunifleury@gmail.com----PWD---19911991fK@
+2024-03-02 01:26:20 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:36:04 - L'identifiant ou le mot de passe incorrect !---ID---kimpunifleur@gmail.com----PWD---11111111fK@
+2024-03-02 01:36:20 - ::1---kimpuni-fleury---est connecté---
+2024-03-02 01:43:29 - Enregistrement des données d'utilisateur effectué
+2024-03-02 01:43:56 - ::1---mapatu-rodrick---est connecté---
+2024-03-02 01:59:08 - L'identifiant ou le mot de passe incorrect !---ID---kimpunifleury@gmail.com----PWD---1999119991fK@
+2024-03-02 01:59:38 - 192.168.1.36---kimpuni-fleury---est connecté---
+2024-03-02 02:01:11 - 
+2024-03-02 02:01:11 - Erreur de réseau
+2024-03-02 02:01:11 - 
+2024-03-02 02:01:11 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-03-02 02:01:21 - 
+2024-03-02 02:01:21 - Erreur de réseau
+2024-03-02 02:01:21 - 
+2024-03-02 02:01:21 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-03-02 02:02:38 - 
+2024-03-02 02:02:38 - Erreur de réseau
+2024-03-02 02:02:38 - 
+2024-03-02 02:02:38 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-03-02 02:02:45 - 
+2024-03-02 02:02:45 - Erreur de réseau
+2024-03-02 02:02:45 - 
+2024-03-02 02:02:45 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-03-02 02:02:51 - 
+2024-03-02 02:02:51 - Erreur de réseau
+2024-03-02 02:02:51 - 
+2024-03-02 02:02:51 - Javascript---Une erreur s'est produite : Erreur de réseau
+2024-03-02 02:05:04 - 
+2024-03-02 02:05:04 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-03-04 10:59:06 - L'identifiant ou le mot de passe incorrect !---ID-------PWD---
+2024-03-04 10:59:07 - L'identifiant ou le mot de passe incorrect !---ID-------PWD---
+2024-03-04 10:59:56 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:23 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:26 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:28 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:30 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:31 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:33 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:34 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:35 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:36 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:00:37 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:01:58 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:01:59 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:12:26 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:12:58 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:13:05 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:13:08 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:13:09 - L'identifiant ou le mot de passe incorrect !---ID-------PWD---
+2024-03-04 11:13:09 - L'identifiant ou le mot de passe incorrect !---ID-------PWD---
+2024-03-04 11:13:10 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:13:11 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:13:30 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-04 11:13:41 - L'identifiant ou le mot de passe incorrect !---ID---kimpunifleury@gmail.com----PWD---19911991j5
+2024-03-04 11:13:48 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---457454
+2024-03-04 11:13:57 - L'identifiant ou le mot de passe incorrect !---ID---kimpunifleury@gmail.com----PWD---1111
+2024-03-04 11:15:18 - ::1---kimpuni-fleury---est connecté---
+2024-03-05 22:09:52 - 
+2024-03-05 22:09:52 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-03-05 22:11:33 - La clé de chiffrement generée avec succès
+2024-03-05 22:11:33 - Javascript---Une clé de chiffrement à été reçu coté client avec succès
+2024-03-05 22:11:35 - Enregistrement des données personnelles effectué
+2024-03-05 22:11:35 - 
+2024-03-10 00:06:45 - Javascript---Une erreur s'est produite : Unexpected token '<', "<br />
+<b>"... is not valid JSON
+2024-03-10 00:07:12 - Enregistrement des données d'utilisateur effectué
+2024-03-10 00:07:12 - 
+2024-03-10 00:53:18 - L'identifiant ou le mot de passe incorrect !---ID-------PWD---
+2024-03-10 00:53:18 - L'identifiant ou le mot de passe incorrect !---ID-------PWD---
+2024-03-10 00:53:25 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-10 00:53:40 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-10 00:53:41 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-10 00:53:42 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-10 00:53:51 - L'identifiant ou le mot de passe incorrect !---ID---kimpunifleury@gmail.com----PWD---11111111µ
+2024-03-10 00:53:53 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-10 00:54:07 - ::1---kimpuni-fleury---est connecté---
+2024-03-10 01:07:06 - 127.0.0.1---kimpuni-fleury---est connecté---
+2024-03-10 01:08:03 - 127.0.0.1---kimpuni-fleury---est connecté---
+2024-03-10 01:09:00 - ::1---kimpuni-fleury---est connecté---
+2024-03-10 01:10:09 - ::1---kimpuni-fleury---est connecté---
+2024-03-10 01:12:22 - ::1---kimpuni-fleury---est connecté---
+2024-03-10 01:15:42 - ::1---kimpuni-fleury---est connecté---
+2024-03-10 01:18:25 - ::1---kimpuni-fleury---est connecté---
+2024-03-10 01:19:22 - ::1---kimpuni-fleury---est connecté---
+2024-03-10 01:20:46 - ::1---kimpuni-fleury---est connecté---
+2024-03-10 01:28:09 - L'identifiant ou le mot de passe incorrect !---ID---armand@gmail.com----PWD---11111111fK@
+2024-03-10 01:28:25 - L'identifiant ou le mot de passe incorrect !---ID---armand@gmail.com----PWD---11111111fK@
+2024-03-10 01:28:42 - ::1---Malanda-Armand---est connecté---
+2024-03-10 01:30:04 - L'identifiant ou le mot de passe incorrect !---ID---kimpunifleury@gmail.com----PWD---19911991fK@
+2024-03-10 01:30:17 - L'identifiant ou le mot de passe incorrect !---ID---kimpunifleury@gmail.com----PWD---19911991fK@
+2024-03-10 01:30:18 - L'identifiant ou le mot de passe incorrect !---ID---admin----PWD---admin
+2024-03-10 01:30:41 - ::1---Malanda-Armand---est connecté---
+2024-03-10 01:34:42 - ::1---Malanda-Armand---est connecté---
+2024-03-10 01:35:15 - 192.168.1.36---kimpuni-fleury---est connecté---
+2024-03-10 01:37:51 - 192.168.1.36---kimpuni-fleury---est connecté---
+2024-03-11 12:39:05 - 192.168.1.36---kimpuni-fleury---est connecté---
+2024-03-11 12:40:43 - 192.168.1.36---kimpuni-fleury---est connecté---
+2024-03-11 12:45:46 - 192.168.1.36---kimpuni-fleury---est connecté---
+2024-03-13 14:39:52 - 192.168.1.29---kimpuni-fleury---est connecté---
+2024-03-13 18:03:44 - ::1---kimpuni-fleury---est connecté---
+2024-03-13 18:04:47 - ::1---kimpuni-fleury---est connecté---
+2024-03-13 18:06:31 - L'identifiant ou le mot de passe incorrect !---ID---arnold@gmail.com----PWD---19911991fK@
+2024-03-13 18:06:49 - L'identifiant ou le mot de passe incorrect !---ID---arnold@gmail.com----PWD---11111111fK@
+2024-03-13 18:07:12 - ::1---Malanda-Armand---est connecté---
+2024-03-13 18:10:02 - 192.168.1.4---kimpuni-fleury---est connecté---
+2024-03-13 18:10:51 - ::1---kimpuni-fleury---est connecté---
